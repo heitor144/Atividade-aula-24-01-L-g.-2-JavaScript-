@@ -35,6 +35,3 @@ Se o código digitado for 1, faça o algoritmo adicionar os dois números previa
 digitados e mostrar o resultado; se o código de seleção for 2, os números deverão ser
 multiplicados; se o código de seleção for 3, o primeiro número deve ser dividido pelo
 segundo.
-
-![image](https://github.com/heitor144/Atividade-aula-24-01-L-g.-2-JavaScript-/assets/86862406/b709c464-0024-4612-8310-32fd0e4ebbd7)
-
